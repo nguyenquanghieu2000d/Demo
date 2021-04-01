@@ -92,7 +92,7 @@
                         <asp:Label ID="Label15" runat="server" Text="Lập trình C"></asp:Label>
                     </td>
                     <td class="auto-style2">
-                        <asp:Label ID="Label16" runat="server" Text="0012377122"></asp:Label>
+                        <asp:Label ID="Label16" runat="server" Text="0012377122333"></asp:Label>
                     </td>
                     <td class="auto-style2">
                         <asp:Label ID="Label17" runat="server" Text="2"></asp:Label>
